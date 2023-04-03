@@ -1,0 +1,5 @@
+const PointType = {
+  CAFE: "CAFE",
+  HOSPITAL: "HOSPITAL",
+  RESTAURANT: "RESTAURANT",
+};

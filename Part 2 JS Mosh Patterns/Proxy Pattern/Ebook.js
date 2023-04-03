@@ -1,0 +1,4 @@
+const Ebook = {
+  show() {},
+  getFileName() {},
+};
